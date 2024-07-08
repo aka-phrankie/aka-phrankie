@@ -1,4 +1,4 @@
-# 😁 Fantastic bumping into you, stranger!
+# 😁 Fantastic bumping into you!
 
 
 # 💻 Tech Stack:
